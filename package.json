@@ -1,0 +1,16 @@
+{
+  "name": "cyan4s-node-and-mongo",
+  "version": "1.0.0",
+  "description": "CRUD Testing with MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "nodemon node index.js"
+  },
+  "author": "CYAN4S",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mongodb": "^3.6.2"
+  }
+}
